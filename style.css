@@ -1,0 +1,52 @@
+h1{
+    margin-left: 140px;
+}
+
+table{
+    border-collapse: collapse ;
+    border: 1px solid #DADADA;
+    margin-left: 140px;
+}
+
+thead{
+    background-color: #DADADA;
+}
+
+.n1{
+    width: 72px;
+    height: 57px;
+    text-align: center;
+}
+
+.n2{
+    width: 444px;
+    text-align: left;
+    padding-left: 23px;
+}
+
+.n3{
+    width: 276px;
+    color: red;
+    text-align: center;
+}
+
+#n3{
+    width: 276px;
+}
+
+#n4{
+    width: 251px;
+}
+.n4 {
+     width: 251px;
+     text-align: center;
+}
+
+button{
+    border: none;
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+}
+
+    
